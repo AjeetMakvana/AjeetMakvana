@@ -4,7 +4,7 @@ Hi 👋 My name is Ajeet Makvana
 Android Developer
 -----------------
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [ajeetmakvana2@gmail.com](mailto:ajeetmakvana2@gmail.com)
 * 🚀  I'm currently working on [Xlent Learn](http://play.google.com/store/apps/details?id=com.xlentdevs.xlentlearn)
 * 🧠  I'm learning Web Development
